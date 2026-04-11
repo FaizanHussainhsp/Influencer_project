@@ -1,0 +1,22 @@
+<svg width="208" height="96" viewBox="0 0 208 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Social media analytics widget -->
+  <!-- Card frame -->
+  <rect x="15" y="8" width="178" height="80" rx="10" fill="white" fill-opacity="0.05" stroke="white" stroke-opacity="0.1"/>
+  <!-- Header bar -->
+  <rect x="25" y="18" width="90" height="8" rx="4" fill="white" fill-opacity="0.2"/>
+  <rect x="160" y="18" width="24" height="8" rx="4" fill="#a855f7" fill-opacity="0.6"/>
+  <!-- Metric bars -->
+  <rect x="25" y="36" width="158" height="4" rx="2" fill="white" fill-opacity="0.07"/>
+  <rect x="25" y="36" width="140" height="4" rx="2" fill="#a855f7" fill-opacity="0.7"/>
+  <rect x="25" y="48" width="158" height="4" rx="2" fill="white" fill-opacity="0.07"/>
+  <rect x="25" y="48" width="105" height="4" rx="2" fill="#818cf8" fill-opacity="0.7"/>
+  <rect x="25" y="60" width="158" height="4" rx="2" fill="white" fill-opacity="0.07"/>
+  <rect x="25" y="60" width="126" height="4" rx="2" fill="#ec4899" fill-opacity="0.7"/>
+  <!-- Stat labels -->
+  <rect x="25" y="72" width="40" height="6" rx="3" fill="white" fill-opacity="0.15"/>
+  <rect x="72" y="72" width="32" height="6" rx="3" fill="white" fill-opacity="0.15"/>
+  <rect x="111" y="72" width="28" height="6" rx="3" fill="white" fill-opacity="0.15"/>
+  <!-- Upward trend dot -->
+  <circle cx="186" cy="36" r="5" fill="#22c55e" fill-opacity="0.8"/>
+  <path d="M183 39l3-5 3 5" stroke="#22c55e" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.8"/>
+</svg>
